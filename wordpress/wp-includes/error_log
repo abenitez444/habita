@@ -1,0 +1,1 @@
+[26-Dec-2020 15:11:35 America/Mexico_City] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/habitainmo/public_html/wordpress/wp-includes/rss-functions.php on line 8
